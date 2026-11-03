@@ -16,7 +16,6 @@
 - 🌱 Experiência em desenvolvimento de aplicações web.
 - ⚙️ Interesse em desenvolvimento Full Stack, arquitetura de software e engenharia de aplicações.
 - 🗄️ Interesse em modelagem, gerenciamento e otimização de bancos de dados.
-- 🤝 Valorizo o aprendizado contínuo, a colaboração e a construção de soluções tecnológicas.
 
 ---
 
@@ -97,7 +96,3 @@ Atuação como **Projetista de Laravel**, participando do desenvolvimento de sol
 </p>
 
 ---
-
-<p align="center">
-  <i>Transformando ideias em soluções através da tecnologia.</i>
-</p>
