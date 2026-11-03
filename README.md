@@ -82,16 +82,6 @@ Atuação como **Projetista de Laravel**, participando do desenvolvimento de sol
 </p>
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Danrleygd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danrleygd&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## Minhas redes
 
 <p align="left">
